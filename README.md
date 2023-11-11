@@ -141,4 +141,4 @@ By submitting a contribution (pull request, issue, comment, or any other form of
 
 ## License
 
-This project is licensed under the GNU GPLv3 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU GPLv3 License - see the [LICENSE](LICENSE.md) file for details.
